@@ -1,0 +1,86 @@
+@import "null.css";
+.body {
+  font-family: Arial-Black;
+}
+
+.teamname {
+  font-family: "Bookman";
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: gold;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+  line-height: normal;
+  text-shadow: 10px 0px 10px black;
+}
+@font-face {
+  font-family: "Bookman";
+  src: url("../fonts/BookmanOldStyle-Bold.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Arial-Black";
+  src: url("../fonts/Arial-Black.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+.linkname {
+  color: white;
+  font-size: 20px;
+}
+
+.firstpage {
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 5px solid gold;
+  align-items: center;
+  display: inline-block;
+}
+.list {
+  font-family: "Bookman";
+  font-size: 20px;
+}
+.pitslist {
+  display: inline-block;
+}
+.pitslogo {
+  width: 200px;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+.banner {
+  width: 100%;
+}
+.title1 {
+  font-family: "Bookman";
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.textconteiner {
+  margin-top: 20px;
+}
+.text1 {
+  padding-left: 10px;
+  padding-right: 10px;
+  display: inline-block;
+  padding-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title2 {
+  padding-top: 10px;
+  font-family: "Bookman";
+  text-align: center;
+}
+.jersey {
+  padding-top: 20px;
+}
+.jer {
+  text-align: center;
+}
